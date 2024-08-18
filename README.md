@@ -1,10 +1,14 @@
-# Valet parking management
+### Valet Parking Management Console App 🚗
 
-A valet parking management system in ruby, this is a console application where you can initialise a garage with small, medium and large parking spots, and then park a car based on it's size and license plate no. and exit a car based on the license plate no.
+A valet parking management system built in Ruby. This console-based application allows you to initialize a garage with small, medium, and large parking spots. Park and exit cars based on their size and license plate number, ensuring efficient parking space allocation.
 
-## Built with
+### Features:
+- Initialize garages with varying spot sizes (small, medium, large)
+- Park cars based on size and license plate number
+- Exit cars using their license plate number
+- Simple and intuitive console interface
 
- - **Ruby**
+---
 
 ## Getting Started
 
